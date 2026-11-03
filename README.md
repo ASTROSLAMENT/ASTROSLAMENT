@@ -1,3 +1,21 @@
-wip
+<div id=whole align=center>
+  <div id=header align=center>
+    <img src=https://file.garden/aKzMGI-7QmDUaY89/git-rentry%20graphics/astroheader.png width=47%>
+  </div>
 
-go suck a penis
+ 
+  <div id=main align=center>
+  <img src=https://file.garden/aKzMGI-7QmDUaY89/ezgif-4eee62abd8bbc856.gif width=1.80%>
+  <p id=desc>$\color{#90C0B4}{\textsf{☆ ࣭ ⭑ }}$ $\color{#ACC4B7}{\textsf{⟅}}$ $\color{#E6E3D2}{\textsf{ASTRO / DELILAH}}$ $\color{#ACC4B7}{\textsf{⟆}}$ $\color{#90C0B4}{\textsf{. ݁₊ ⊹ . ݁ ˖ }}$<img src=https://file.garden/aKzMGI-7QmDUaY89/divs/ministardiv3.png width=10%> 
+    <br>$\color{#E6E3D2}{\textsf{ㅤ︵︵︵ㅤ}}$ㅤ ‎  ‎  ‎  $\color{#ACC4B7}{\textsf{◜꒰}}$ $\color{#E6E3D2}{\textsf{c+h/cover enc}}$ $\color{#ACC4B7}{\textsf{꒱}}$ $\color{#5F6D6D}{\textsf{↴}}$ ㅤ<img src=https://file.garden/aKzMGI-7QmDUaY89/ezgif-473ddd133ba7d81c.gif>ㅤ
+    <br>$\color{#ACC4B7}{\textsf{ꕀㅤ}}$<img src=https://file.garden/aKzMGI-7QmDUaY89/ezgif-51580c69846073de.gif title="lavendergalactic on tumblr (recolor)">$\color{#E6E3D2}{\textsf{ ݁ ˖𐔌 ᩧ ຼ ͡ ৯}}$ $\color{#90C0B4}{\textsf{ ݁ ⊹  ‧₊˚ }}$ $\color{#ACC4B7}{\textsf{꒰}}$ $\color{#E6E3D2}{\textsf{placeholder txt}}$ $\color{#ACC4B7}{\textsf{꒱}}$ $\color{#E6E3D2}{\textsf{─── ⋆}}$<!-- main bio -->
+<br> 
+<a href="https://ichormanipulation.straw.page/"><sub>straw</sub></a>$\color{#ACC4B7}\ \tiny{\textsf{|}}$ <a href=""><!--put whatever link you want here, or just delete it if you dont care abt having this--><sub>nominations</sub></a>$\color{#ACC4B7}\ \tiny{\textsf{|}}$ <a href="https://astroslament.atabook.org/">  <sub> ata <sub> </a> <br> <!-- strawpage and ata links -->
+<details>
+  <summary> $\color{#5F6D6D}{\textsf{ DNI/BYI }}$ </summary>
+</details> 
+<a href="https://dandys-world-robloxhorror.fandom.com/wiki/Astro"><img align="" src="https://file.garden/aKzMGI-7QmDUaY89/git-rentry%20graphics/astro_footer.png" width="47%"/></a><!-- footer -->
+ </p> </div>
+  <p>
+ $\color{#5F6D6D}\ \tiny {\textsf{better on pc}}$
+  </p>
