@@ -21,6 +21,8 @@
   $\color{#E6E3D2}{\textsf{i say slurs/cuss a ton, tell me if that makes you uncomfortable and i will cease those actions,}}$
   $\color{#E6E3D2}{\textsf{i can be very mean at times when im in a bad mood, iwc if you are sensitive to those things}}$
 
+  $\color{#E6E3D2}{\textsf{yes, im a fictkin of many - and no idc about "doubles", just please dont make it all about you, if you dont like that; block and move on}}$
+
 </details> 
 <a href="https://dandys-world-robloxhorror.fandom.com/wiki/Astro"><img align="" src="https://file.garden/aKzMGI-7QmDUaY89/git-rentry%20graphics/astro_footer.png" width="47%"/></a><!-- footer -->
  </p> </div>
