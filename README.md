@@ -13,6 +13,14 @@
 <a href="https://ichormanipulation.straw.page/"><sub>straw</sub></a>$\color{#ACC4B7}\ \tiny{\textsf{|}}$ <a href="https://ichormanipulation.straw.page/nominations"><!--put whatever link you want here, or just delete it if you dont care abt having this--><sub>nominations</sub></a>$\color{#ACC4B7}\ \tiny{\textsf{|}}$ <a href="https://astroslament.atabook.org/">  <sub> ata <sub> </a> <br> <!-- strawpage and ata links -->
 <details>
   <summary> $\color{#5F6D6D}{\textsf{ DNI/BYI }}$ </summary>
+  $\color{#E6E3D2}{\textsf{basic dni (t.r.a.s.h, pedos, pros/darks, etc.), }}$
+  
+  $\color{#E6E3D2}{\textsf{dandys world fandom is on strict iayor unless friends,}}$
+  
+  $\color{#E6E3D2}{\textsf{-17-18 iwvecuf, you can still int; just please dont be weird or sexual as i am an adult (20+),}}$
+  $\color{#E6E3D2}{\textsf{i say slurs/cuss a ton, tell me if that makes you uncomfortable and i will cease those actions,}}$
+  $\color{#E6E3D2}{\textsf{i can be very mean at times when im in a bad mood, iwc if you are sensitive to those things}}$
+
 </details> 
 <a href="https://dandys-world-robloxhorror.fandom.com/wiki/Astro"><img align="" src="https://file.garden/aKzMGI-7QmDUaY89/git-rentry%20graphics/astro_footer.png" width="47%"/></a><!-- footer -->
  </p> </div>
