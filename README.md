@@ -20,5 +20,5 @@
  $\color{#5F6D6D}\ \tiny {\textsf{better on pc}}$
   </p>
   <p> 
-    $\color{#5F6D6D}\ \tiny {\textsf{readme created by }}$ 
+    $\color{#5F6D6D}\ \tiny {\textsf{readme created by sanguinesilence (hii ml) }}$ 
   </p>
